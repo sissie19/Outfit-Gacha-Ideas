@@ -1,0 +1,1503 @@
+{
+  "Ads": [
+    {
+      "status_app": "0",
+      "link_redirect": "https://",
+      "initialize_sdk": "",
+      "main_ads_banner": "ca-app-pub-2633475802864579/3924217426",
+      "select_main_ads": "ADMOB",
+      "native_for_admob": "ca-app-pub-2633475802864579/1298054081",
+      "backup_ads_banner": "2ec91c0ed2c21d4c",
+      "select_backup_ads": "APPLOVIN-M",
+      "interval_intertitial": 2,
+      "main_ads_intertitial": "ca-app-pub-2633475802864579/2611135753",
+      "high_paying_keyword_1": "Insurance",
+      "high_paying_keyword_2": "Electricity",
+      "high_paying_keyword_3": "Loans",
+      "high_paying_keyword_4": "Mortgage",
+      "high_paying_keyword_5": "Lawyer",
+      "backup_ads_intertitial": "5d011a1b5570b535",
+      "initialize_sdk_backup_ads": ""
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/b1.webp",
+      "title": "1",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 2,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/b2.webp",
+      "title": "2",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 3,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/b3.webp",
+      "title": "3",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 4,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/b4.webp",
+      "title": "4",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 5,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/b5.webp",
+      "title": "5",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 6,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/b6.webp",
+      "title": "6",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 7,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/b7.webp",
+      "title": "7",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 8,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/b8.webp",
+      "title": "8",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 9,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/b9.webp",
+      "title": "9",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 10,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/10.webp",
+      "title": "10",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 11,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/11.webp",
+      "title": "11",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 12,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/12.webp",
+      "title": "12",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 13,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/13.webp",
+      "title": "13",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 14,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/14.webp",
+      "title": "14",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 15,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/15.webp",
+      "title": "15",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 16,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/16.webp",
+      "title": "16",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 17,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/17.webp",
+      "title": "17",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 18,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/18.webp",
+      "title": "18",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 19,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/19.webp",
+      "title": "19",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 20,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/20.webp",
+      "title": "20",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 21,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/21.webp",
+      "title": "21",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 22,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/22.webp",
+      "title": "22",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 23,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/23.webp",
+      "title": "23",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 24,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/24.webp",
+      "title": "24",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 25,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/25.webp",
+      "title": "25",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 26,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/26.webp",
+      "title": "26",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 27,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/27.webp",
+      "title": "27",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 28,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/28.webp",
+      "title": "28",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 29,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/29.webp",
+      "title": "29",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 30,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/30.webp",
+      "title": "30",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 31,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/31.webp",
+      "title": "31",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 32,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/32.webp",
+      "title": "32",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 33,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/33.webp",
+      "title": "33",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 34,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/34.webp",
+      "title": "34",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 35,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/35.webp",
+      "title": "35",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 36,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/36.webp",
+      "title": "36",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 37,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/37.webp",
+      "title": "37",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 38,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/38.webp",
+      "title": "38",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 39,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/39.webp",
+      "title": "39",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 40,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/40.webp",
+      "title": "40",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 41,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/41.webp",
+      "title": "41",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 42,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/42.webp",
+      "title": "42",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 43,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/43.webp",
+      "title": "43",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 44,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/44.webp",
+      "title": "44",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 45,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/45.webp",
+      "title": "45",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 46,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/46.webp",
+      "title": "46",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 47,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/47.webp",
+      "title": "47",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 48,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/48.webp",
+      "title": "48",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 49,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/49.webp",
+      "title": "49",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 50,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/50.webp",
+      "title": "50",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 51,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/51.webp",
+      "title": "51",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 52,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/52.webp",
+      "title": "52",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 53,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/53.webp",
+      "title": "53",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 54,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/54.webp",
+      "title": "54",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 55,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/55.webp",
+      "title": "55",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 56,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/56.webp",
+      "title": "56",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 57,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/57.webp",
+      "title": "57",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 58,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/58.webp",
+      "title": "58",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 59,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/59.webp",
+      "title": "59",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 60,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/60.webp",
+      "title": "60",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 61,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/61.webp",
+      "title": "61",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 62,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/62.webp",
+      "title": "62",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 63,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/63.webp",
+      "title": "63",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 64,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/64.webp",
+      "title": "64",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 65,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/65.webp",
+      "title": "65",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 66,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/66.webp",
+      "title": "66",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 67,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/67.webp",
+      "title": "67",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 68,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/68.webp",
+      "title": "68",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 69,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/69.webp",
+      "title": "69",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 70,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/70.webp",
+      "title": "70",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 71,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/71.webp",
+      "title": "71",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 72,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/72.webp",
+      "title": "72",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 73,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/73.webp",
+      "title": "73",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 74,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/74.webp",
+      "title": "74",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 75,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/75.webp",
+      "title": "75",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 76,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/76.webp",
+      "title": "76",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 77,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/77.webp",
+      "title": "77",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 78,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/78.webp",
+      "title": "78",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 79,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/79.webp",
+      "title": "79",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 80,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/80.webp",
+      "title": "80",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 81,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/81.webp",
+      "title": "81",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 82,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/82.webp",
+      "title": "82",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 83,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/83.webp",
+      "title": "83",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 84,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/84.webp",
+      "title": "84",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 85,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/85.webp",
+      "title": "85",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 86,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/86.webp",
+      "title": "86",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 87,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/87.webp",
+      "title": "87",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 88,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/88.webp",
+      "title": "88",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 89,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/89.webp",
+      "title": "89",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 90,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/90.webp",
+      "title": "90",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 91,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/91.webp",
+      "title": "91",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 92,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/92.webp",
+      "title": "92",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 93,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/93.webp",
+      "title": "93",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 94,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/94.webp",
+      "title": "94",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 95,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/95.webp",
+      "title": "95",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 96,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/96.webp",
+      "title": "96",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 97,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/97.webp",
+      "title": "97",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 98,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/98.webp",
+      "title": "98",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 99,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/99.webp",
+      "title": "99",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 100,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/100.webp",
+      "title": "100",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 101,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/101.webp",
+      "title": "101",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 102,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/102.webp",
+      "title": "102",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 103,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/103.webp",
+      "title": "103",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 104,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/104.webp",
+      "title": "104",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 105,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/105.webp",
+      "title": "105",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 106,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/106.webp",
+      "title": "106",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 107,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/107.webp",
+      "title": "107",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 108,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/108.webp",
+      "title": "108",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 109,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/109.webp",
+      "title": "109",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 110,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/110.webp",
+      "title": "110",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 111,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/111.webp",
+      "title": "111",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 112,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/112.webp",
+      "title": "112",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 113,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/113.webp",
+      "title": "113",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 114,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/114.webp",
+      "title": "114",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 115,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/115.webp",
+      "title": "115",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 116,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/116.webp",
+      "title": "116",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 117,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/117.webp",
+      "title": "117",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 118,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/118.webp",
+      "title": "118",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 119,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/119.webp",
+      "title": "119",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 120,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/120.webp",
+      "title": "120",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 121,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/121.webp",
+      "title": "121",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 122,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/122.webp",
+      "title": "122",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 123,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/123.webp",
+      "title": "123",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 124,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/124.webp",
+      "title": "124",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 125,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/125.webp",
+      "title": "125",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 126,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/126.webp",
+      "title": "126",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 127,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/127.webp",
+      "title": "127",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 128,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/128.webp",
+      "title": "128",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 129,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/129.webp",
+      "title": "129",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 130,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/130.webp",
+      "title": "130",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 131,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/131.webp",
+      "title": "131",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 132,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/132.webp",
+      "title": "132",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 133,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/133.webp",
+      "title": "133",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 134,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/134.webp",
+      "title": "134",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 135,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/135.webp",
+      "title": "135",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 136,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/136.webp",
+      "title": "136",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 137,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/137.webp",
+      "title": "137",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 138,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/138.webp",
+      "title": "138",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 139,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/139.webp",
+      "title": "139",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 140,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/140.webp",
+      "title": "140",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 141,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/141.webp",
+      "title": "141",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 142,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/142.webp",
+      "title": "142",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 143,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/143.webp",
+      "title": "143",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 144,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/144.webp",
+      "title": "144",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 145,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/145.webp",
+      "title": "145",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 146,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/146.webp",
+      "title": "146",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 147,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/147.webp",
+      "title": "147",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 148,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/148.webp",
+      "title": "148",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 149,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/149.webp",
+      "title": "149",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 150,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/150.webp",
+      "title": "150",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 151,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/151.webp",
+      "title": "151",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 152,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/152.webp",
+      "title": "152",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 153,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/153.webp",
+      "title": "153",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 154,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/154.webp",
+      "title": "154",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 155,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/155.webp",
+      "title": "155",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 156,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/156.webp",
+      "title": "156",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 157,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/157.webp",
+      "title": "157",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 158,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/158.webp",
+      "title": "158",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 159,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/159.webp",
+      "title": "159",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 160,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/160.webp",
+      "title": "160",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 161,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/161.webp",
+      "title": "161",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 162,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/162.webp",
+      "title": "162",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 163,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/163.webp",
+      "title": "163",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 164,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/164.webp",
+      "title": "164",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 165,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/165.webp",
+      "title": "165",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 166,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/166.webp",
+      "title": "166",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 167,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/167.webp",
+      "title": "167",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 168,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/168.webp",
+      "title": "168",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 169,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/169.webp",
+      "title": "169",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 170,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/170.webp",
+      "title": "170",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 171,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/171.webp",
+      "title": "171",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 172,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/172.webp",
+      "title": "172",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 173,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/173.webp",
+      "title": "173",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 174,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/174.webp",
+      "title": "174",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 175,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/175.webp",
+      "title": "175",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 176,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/176.webp",
+      "title": "176",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 177,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/177.webp",
+      "title": "177",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 178,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/178.webp",
+      "title": "178",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 179,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/179.webp",
+      "title": "179",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 180,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/180.webp",
+      "title": "180",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 181,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/181.webp",
+      "title": "181",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 182,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/182.webp",
+      "title": "182",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 183,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/183.webp",
+      "title": "183",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 184,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/184.webp",
+      "title": "184",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 185,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/185.webp",
+      "title": "185",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 186,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/186.webp",
+      "title": "186",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 187,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/187.webp",
+      "title": "187",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 188,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/188.webp",
+      "title": "188",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 189,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/189.webp",
+      "title": "189",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 190,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/190.webp",
+      "title": "190",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 191,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/191.webp",
+      "title": "191",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 192,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/192.webp",
+      "title": "192",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 193,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/193.webp",
+      "title": "193",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 194,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/194.webp",
+      "title": "194",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 195,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/195.webp",
+      "title": "195",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 196,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/196.webp",
+      "title": "196",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 197,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/197.webp",
+      "title": "197",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 198,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/198.webp",
+      "title": "198",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 199,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/199.webp",
+      "title": "199",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 200,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/200.webp",
+      "title": "200",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 201,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/201.webp",
+      "title": "201",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 202,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/202.webp",
+      "title": "202",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 203,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/203.webp",
+      "title": "203",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 204,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/204.webp",
+      "title": "204",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 205,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/205.webp",
+      "title": "205",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 206,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/206.webp",
+      "title": "206",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 207,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/207.webp",
+      "title": "207",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 208,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/208.webp",
+      "title": "208",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 209,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/209.webp",
+      "title": "209",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 210,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/210.webp",
+      "title": "210",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 211,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/211.webp",
+      "title": "211",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 212,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/212.webp",
+      "title": "212",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 213,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/213.webp",
+      "title": "213",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 214,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/214.webp",
+      "title": "214",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 215,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/215.webp",
+      "title": "215",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 216,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/216.webp",
+      "title": "216",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 217,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/217.webp",
+      "title": "217",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 218,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/218.webp",
+      "title": "218",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 219,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/219.webp",
+      "title": "219",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 220,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/220.webp",
+      "title": "220",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 221,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/221.webp",
+      "title": "221",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 222,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/222.webp",
+      "title": "222",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 223,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/223.webp",
+      "title": "223",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 224,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/224.webp",
+      "title": "224",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 225,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/225.webp",
+      "title": "225",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 226,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/226.webp",
+      "title": "226",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 227,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/227.webp",
+      "title": "227",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 228,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/228.webp",
+      "title": "228",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 229,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/229.webp",
+      "title": "229",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 230,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/230.webp",
+      "title": "230",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 231,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/231.webp",
+      "title": "231",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 232,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/232.webp",
+      "title": "232",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 233,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/233.webp",
+      "title": "233",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 234,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/234.webp",
+      "title": "234",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 235,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/235.webp",
+      "title": "235",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 236,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/236.webp",
+      "title": "236",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 237,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/237.webp",
+      "title": "237",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 238,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/238.webp",
+      "title": "238",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 239,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/239.webp",
+      "title": "239",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 240,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/240.webp",
+      "title": "240",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 241,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/241.webp",
+      "title": "241",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 242,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/242.webp",
+      "title": "242",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 243,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/243.webp",
+      "title": "243",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 244,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/244.webp",
+      "title": "244",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 245,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/245.webp",
+      "title": "245",
+      "name_category": "Gacha Outfit Ideas"
+    },
+    {
+      "id": 246,
+      "image": "https://cdn.statically.io/gh/wawangsetiaone/Asset-Life-Club/main/246.webp",
+      "title": "246",
+      "name_category": "Gacha Outfit Ideas"
+    }
+  ],
+  "More": [],
+  "Categories": []
+}
