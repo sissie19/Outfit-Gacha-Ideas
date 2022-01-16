@@ -7,7 +7,7 @@
       "main_ads_banner": "ca-app-pub-2633475802864579/3924217426",
       "select_main_ads": "ADMOB",
       "native_for_admob": "ca-app-pub-2633475802864579/1298054081",
-      "backup_ads_banner": "2ec91c0ed2c21d4c",
+      "backup_ads_banner": "5d011a1b5570b535",
       "select_backup_ads": "APPLOVIN-M",
       "interval_intertitial": 2,
       "main_ads_intertitial": "ca-app-pub-2633475802864579/2611135753",
@@ -16,7 +16,7 @@
       "high_paying_keyword_3": "Loans",
       "high_paying_keyword_4": "Mortgage",
       "high_paying_keyword_5": "Lawyer",
-      "backup_ads_intertitial": "5d011a1b5570b535",
+      "backup_ads_intertitial": "2ec91c0ed2c21d4c",
       "initialize_sdk_backup_ads": ""
     }
   ],
